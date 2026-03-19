@@ -9,3 +9,5 @@ The pre-trained models for TDDFT, ΔSCF, and xTB/sTDA methods used in this study
 The automated Python scripts used to perform TDDFT and ΔSCF calculations with Gaussian 16, along with the automated Python code for calculating T₁ energies using the xTB/sTDA method, are available in the Scripts folder.
 # Code
 The code used for prediction with the pre-trained models is provided in the "prediction_code.ipynb" Jupyter notebook.
+# Citation
+The manuscript is currently under revision.
